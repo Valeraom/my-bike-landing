@@ -20,3 +20,6 @@ BEM
 
 
 ![Demo GIF](public/images/my-bike-review.gif)
+
+## Design
+[Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=6njGHkZdmYO8pXpx-0)
